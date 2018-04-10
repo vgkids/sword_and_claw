@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I do as CEO"
+title:  "Fundamental Attribution Error"
 date:   2018-04-09 22:03:15 -0700
 categories: managing, leadership
 ---
