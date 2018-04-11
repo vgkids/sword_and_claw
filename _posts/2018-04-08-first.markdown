@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: post-no-feature
 title:  "Practice Altruism"
 date:   2018-04-08 17:32:15 -0700
 categories: happiness, emotional intelligence
+show_avatar : false
+show_related_posts: false
 ---
 [The little things one can do to increase happiness] won't surpise you any more than "_eat less and exercise more_" does. The main things are to commit to some simple behaviors– meditating, exercising, getting enough sleep– and to practice altruism. One of the most selfish things you can do is help others. Volunteer at homeless shelter. You may or may not help the homeless, but you will almost surely help yourself. And nurture your social connections. Twice a week, write down three things you're grateful for, and tell someone why." 
 
