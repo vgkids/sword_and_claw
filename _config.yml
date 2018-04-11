@@ -2,7 +2,7 @@
 title: Sword and Claw
 email: james@getwhiplash.com
 description: > # A catalog of lifelong education.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sword_and_claw" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
