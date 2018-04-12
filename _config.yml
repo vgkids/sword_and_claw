@@ -8,7 +8,7 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: 'A catalog of lifelong education'
 footer_links:
     # About: ['About', '/about']
     # Writer: ['Writer 2016', '/about']
