@@ -12,7 +12,9 @@ single_footer: 'A catalog of lifelong education'
 footer_links:
     # About: ['About', '/about']
     # Writer: ['Writer 2016', '/about']
-
+jekyll_compose:
+    auto_open: true
+    layout: post-no-feature
 
 # Build settings
 # markdown: kramdown
