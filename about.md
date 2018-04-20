@@ -2,13 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature_image: feature-book
+feature_image: feature-watching-waves
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I've heard the people I respect and admire described as _verocious readers_, so I've long aspired to become one myself.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+On a purely practical level, if I read a book and get one good idea from it, the impact of that $25 purchase and a few hours of my time could be the best investment of my life.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+I manually re-write the most salient clips of what I'm reading to slow down and immerse myself more deeply in the idea. If this collecting and curating can benefit others while simultaneously paying homeage to the authors, that's a 3x win.
