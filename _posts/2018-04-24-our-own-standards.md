@@ -1,5 +1,5 @@
 ---
-layout: post-no-sidebar
+layout: post-no-feature
 title: Our Own Standards
 date: 2018-04-24 09:39 -0700
 categories: honesty
